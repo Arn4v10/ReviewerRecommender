@@ -1,17 +1,11 @@
-streamlit==1.31.1
-
-# Sentence Transformers + HF versions that work together
-sentence-transformers==2.2.2
-transformers==4.33.3
-huggingface-hub==0.18.0
-
-# PyTorch CPU build (required on Streamlit Cloud)
-torch==2.0.1+cpu
-torchvision==0.15.2+cpu
-torchaudio==2.0.2+cpu
--f https://download.pytorch.org/whl/cpu
-
-pandas
-numpy
-scikit-learn
-PyMuPDF
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+sentence-transformers==2.5.1
+torch==2.1.0
+transformers==4.37.2
+huggingface-hub==0.20.2
+pymupdf==1.22.5
+regex
+tqdm
