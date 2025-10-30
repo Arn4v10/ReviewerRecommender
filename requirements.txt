@@ -4,3 +4,4 @@ numpy == 2.2.4
 sentence-transformers == 2.2.2
 scikit-learn == 1.7.1
 PyMuPDF == 1.26.5
+huggingface-hub == 0.36.0
