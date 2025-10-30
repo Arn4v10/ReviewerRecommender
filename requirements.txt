@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers==2.2.2
+transformers==4.38.2
+torch
+fitz
+PyMuPDF
+pandas
+numpy
+scikit-learn
